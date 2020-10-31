@@ -7,8 +7,8 @@ The dataset was moved to the following link:
 
 If you find this dataset useful in your research, please consider citing:
 
-@article{IJASEIT8684,
-   author = {César G. Pachón-Suescún and Javier O. Pinzón-Arenas and Robinson Jiménez-Moreno},
+@article{IJASEIT8684,\
+   author = {César G. Pachón-Suescún and Javier O. Pinzón-Arenas and Robinson Jiménez-Moreno},\
    title = {Fruit Identification and Quality Detection by Means of DAG-CNN},
    journal = {International Journal on Advanced Science, Engineering and Information Technology},
    volume = {10},
