@@ -3,7 +3,7 @@ Fruit Dataset
 
 The dataset was moved to the following link:
 
-
+http://dx.doi.org/10.17632/6ps7gtp2wg.1
 
 If you find this dataset useful in your research, please consider citing:
 
